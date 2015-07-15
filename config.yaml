@@ -1,0 +1,4 @@
+svn-url: http://x.x.x.x/svn/repo/url
+rm-url: http://x.x.x.x/redmine_url
+rm-key: redmine-api-key
+
